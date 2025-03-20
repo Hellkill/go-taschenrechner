@@ -10,7 +10,7 @@ func main() {
 	var number1 float64
 	var number2 float64
 	var operator string
-	var exit bool
+	var exit bool = true
 	var stop int
 
 	for exit {
